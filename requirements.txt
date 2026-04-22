@@ -1,0 +1,5 @@
+- Python
+- Scikit-learn
+- Pandas / NumPy
+- Matplotlib
+- Imbalanced-learn (SMOTE)
